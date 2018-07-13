@@ -33,11 +33,11 @@ nav{
 }
 
 .right{
-    width: 480px;
+    width: 420px;
     background: #ccc;
     float:right;
     height: 200px;
-    bo
+    
       
 }
 #left{
@@ -47,7 +47,7 @@ height: 200px;
 padding: 20px;
 margin-bottom: 20px;
 float: left;
-width: 450px;
+width: 515px;
 }
 #article{
     position: relative;
@@ -82,4 +82,5 @@ footer{
     padding: 20px;
   clear: both;
   background: #ccc;
+  
 }
